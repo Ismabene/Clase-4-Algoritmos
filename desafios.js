@@ -127,5 +127,3 @@ console.log(DevuelveNumeroMayor(array))
 edad >= 18 ? console.log("hola") : console.log("chau");
 
 var edad = 144
-
-// fibonacci 
